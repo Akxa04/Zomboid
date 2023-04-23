@@ -1,0 +1,269 @@
+[07-04-23 23:49:41.899] 76561198282220699 "AkaMadafaka" container -1 8326,11813,0 [Base.MeatCleaver].
+[07-04-23 23:50:08.892] 76561198282220699 "AkaMadafaka" container -1 8327,11815,0 [Base.WristWatch_Left_ClassicBlack].
+[07-04-23 23:50:29.899] 76561198282220699 "AkaMadafaka" container -1 8327,11815,0 [Base.ButterKnife].
+[07-04-23 23:56:33.871] 76561199102646469 "USSR" container -1 8057,11724,0 [Base.Vest_BulletPolice].
+[07-04-23 23:56:36.889] 76561199102646469 "USSR" container -1 8057,11724,0 [Radio.CDplayer].
+[07-04-23 23:56:39.872] 76561199102646469 "USSR" container -1 8059,11724,0 [Radio.CDplayer].
+[07-04-23 23:56:42.886] 76561199102646469 "USSR" container -1 8056,11724,0 [Base.Lunchbox2].
+[07-04-23 23:59:56.890] 76561198282220699 "AkaMadafaka" container -1 8128,11743,0 [Base.BluePen].
+[08-04-23 00:00:00.875] 76561199102646469 "USSR" container -3 8128,11744,0 [Base.Notebook, Base.BluePen].
+[08-04-23 00:00:03.875] 76561199102646469 "USSR" container -3 8128,11744,0 [Base.Notebook].
+[08-04-23 00:00:05.893] 76561198282220699 "AkaMadafaka" container -1 8131,11742,0 [Base.Lighter].
+[08-04-23 00:00:06.874] 76561199102646469 "USSR" container -1 8128,11743,0 [Base.RedPen].
+[08-04-23 00:00:30.888] 76561199102646469 "USSR" container -1 8138,11738,0 [Base.Screwdriver].
+[08-04-23 00:00:44.900] 76561198282220699 "AkaMadafaka" container -2 8145,11742,0 [Base.Screwdriver, Base.Wrench].
+[08-04-23 00:00:48.890] 76561199102646469 "USSR" container -1 8145,11742,0 [Base.Screwdriver].
+[08-04-23 00:00:50.894] 76561198282220699 "AkaMadafaka" container -1 8145,11743,0 [Base.HandTorch].
+[08-04-23 00:00:51.874] 76561199102646469 "USSR" container -1 8145,11743,0 [].
+[08-04-23 00:01:00.886] 76561199102646469 "USSR" container -1 8145,11746,0 [Base.PipeWrench].
+[08-04-23 00:01:03.353] 76561199102646469 "USSR" floor +1 8131,11751,0 [Base.UnusableWood].
+[08-04-23 00:01:03.354] 76561199102646469 "USSR" floor +1 8131,11751,0 [Base.Doorknob].
+[08-04-23 00:01:03.884] 76561199102646469 "USSR" container -1 8145,11746,0 [Base.Crowbar].
+[08-04-23 00:01:06.886] 76561199102646469 "USSR" container -1 8145,11746,0 [Base.Sledgehammer2].
+[08-04-23 00:01:26.893] 76561198282220699 "AkaMadafaka" container -2 8149,11732,0 [Base.ElectronicsScrap, Base.LugWrench].
+[08-04-23 00:01:32.893] 76561198282220699 "AkaMadafaka" container -1 8149,11732,0 [Base.EngineParts].
+[08-04-23 00:01:34.867] 76561199102646469 "USSR" floor +1 8150,11734,0 [Base.Lunchbox2].
+[08-04-23 00:01:44.896] 76561198282220699 "AkaMadafaka" container -1 8157,11738,0 [Base.Bag_FannyPackFront].
+[08-04-23 00:01:47.899] 76561198282220699 "AkaMadafaka" container -1 8157,11738,0 [Base.Glasses_Aviators].
+[08-04-23 00:01:56.895] 76561198282220699 "AkaMadafaka" container -1 8157,11739,0 [Base.Trousers_Fireman].
+[08-04-23 00:02:07.756] 76561198282220699 "AkaMadafaka" floor +1 8151,11736,0 [Base.Trousers_Denim].
+[08-04-23 00:02:16.332] 76561199102646469 "USSR" floor +1 8151,11737,0 [Base.Screwdriver].
+[08-04-23 00:02:16.380] 76561199102646469 "USSR" floor +1 8151,11737,0 [Base.Screwdriver].
+[08-04-23 00:02:53.093] 76561198282220699 "AkaMadafaka" floor +1 8151,11740,0 [Base.Hat_BaseballCap].
+[08-04-23 00:02:54.244] 76561199102646469 "USSR" floor +1 8152,11741,0 [Base.Hat_BaseballCap].
+[08-04-23 00:02:57.789] 76561198282220699 "AkaMadafaka" floor +1 8130,11751,0 [Base.UnusableWood].
+[08-04-23 00:02:57.790] 76561198282220699 "AkaMadafaka" floor +1 8130,11751,0 [Base.UnusableWood].
+[08-04-23 00:02:57.791] 76561198282220699 "AkaMadafaka" floor +1 8130,11751,0 [Base.Doorknob].
+[08-04-23 00:02:57.791] 76561198282220699 "AkaMadafaka" floor +1 8130,11751,0 [Base.Hinge].
+[08-04-23 00:02:57.792] 76561198282220699 "AkaMadafaka" floor +1 8130,11751,0 [Base.Hinge].
+[08-04-23 00:03:12.885] 76561199102646469 "USSR" container -1 8147,11734,0 [Base.WristWatch_Left_ClassicBrown].
+[08-04-23 00:03:21.488] 76561199102646469 "USSR" floor -1 8151,11737,0 [Base.Screwdriver].
+[08-04-23 00:03:35.779] 76561198282220699 "AkaMadafaka" container -1 8157,11740,0 [Base.Jacket_Fireman].
+[08-04-23 00:03:56.895] 76561198282220699 "AkaMadafaka" container -1 8145,11728,0 [Base.Axe].
+[08-04-23 00:04:15.881] 76561199102646469 "USSR" container -1 8148,11728,0 [Base.Jacket_Fireman].
+[08-04-23 00:04:21.882] 76561199102646469 "USSR" container -1 8148,11728,0 [Base.Trousers_Fireman].
+[08-04-23 00:04:33.530] 76561199102646469 "USSR" floor +1 8148,11730,0 [Base.Sledgehammer2].
+[08-04-23 00:04:42.676] 76561199102646469 "USSR" floor +1 8148,11730,0 [Base.Crowbar].
+[08-04-23 00:04:51.884] 76561199102646469 "USSR" container -1 8147,11728,0 [Base.Axe].
+[08-04-23 00:05:11.715] 76561199102646469 "USSR" container -1 8148,11728,0 [Base.Hat_GasMask].
+[08-04-23 00:05:35.790] 76561198282220699 "AkaMadafaka" container -1 8134,11728,1 [Base.Shoes_ArmyBoots].
+[08-04-23 00:05:55.710] 76561198282220699 "AkaMadafaka" container -1 8128,11750,1 [Base.MuttonChop].
+[08-04-23 00:05:57.888] 76561199102646469 "USSR" container -1 8131,11745,1 [Base.PopBottle].
+[08-04-23 00:06:02.892] 76561198282220699 "AkaMadafaka" container +0 8128,11747,1 [Base.MuttonChop].
+[08-04-23 00:06:03.901] 76561199102646469 "USSR" container -1 8130,11745,1 [Base.Chocolate].
+[08-04-23 00:06:29.893] 76561198282220699 "AkaMadafaka" container -1 8128,11750,1 [Base.JuiceBox].
+[08-04-23 00:06:41.898] 76561198282220699 "AkaMadafaka" container -1 8128,11750,1 [Base.Banana].
+[08-04-23 00:06:42.893] 76561199102646469 "USSR" container -1 8128,11748,1 [Base.CannedPeas].
+[08-04-23 00:07:44.902] 76561198282220699 "AkaMadafaka" container -2 8129,11745,1 [Base.TortillaChips, Base.Cereal].
+[08-04-23 00:07:47.895] 76561198282220699 "AkaMadafaka" container -1 8129,11745,1 [Base.Chocolate].
+[08-04-23 00:07:56.892] 76561198282220699 "AkaMadafaka" container -1 8128,11747,1 [Base.MuttonChop].
+[08-04-23 00:11:48.890] 76561199102646469 "USSR" container -1 8133,11735,0 [Base.Ring_Left_RingFinger_Gold].
+[08-04-23 00:13:35.560] 76561199102646469 "USSR" container -1 8163,11748,0 [Base.Necklace_Gold].
+[08-04-23 00:13:39.898] 76561199102646469 "USSR" container -1 8163,11748,0 [Base.RedPen].
+[08-04-23 00:13:42.897] 76561199102646469 "USSR" container -1 8163,11748,0 [Base.Ring_Left_RingFinger_Silver].
+[08-04-23 00:13:48.714] 76561199102646469 "USSR" container -1 8163,11748,0 [Base.Earring_LoopSmall_Gold_Both].
+[08-04-23 00:15:26.741] 76561198282220699 "AkaMadafaka" floor +1 8217,11815,0 [Base.Hat_BaseballCap].
+[08-04-23 00:15:27.446] 76561199102646469 "USSR" floor +1 8216,11815,0 [Base.Hat_BaseballCap].
+[08-04-23 00:16:14.893] 76561198282220699 "AkaMadafaka" container -1 8209,11805,0 [Base.BookMechanic2].
+[08-04-23 00:17:08.719] 76561198282220699 "AkaMadafaka" floor +1 8238,11822,0 [Base.Glasses_Reading].
+[08-04-23 00:17:17.890] 76561198282220699 "AkaMadafaka" container -1 8237,11822,0 [Base.Ring_Left_RingFinger_GoldRuby].
+[08-04-23 00:18:01.652] 76561199102646469 "USSR" floor +1 8238,11865,0 [Base.Glasses_Aviators].
+[08-04-23 00:19:41.892] 76561198282220699 "AkaMadafaka" container -1 8239,11829,0 [Base.Grapefruit].
+[08-04-23 00:23:15.933] 76561198282220699 "AkaMadafaka" floor +1 8211,11813,0 [Base.Jacket_Fireman].
+[08-04-23 00:23:21.388] 76561198282220699 "AkaMadafaka" floor +1 8211,11813,0 [Base.Shoes_ArmyBoots].
+[08-04-23 00:23:24.040] 76561198282220699 "AkaMadafaka" floor +1 8211,11813,0 [Base.Shirt_Lumberjack].
+[08-04-23 00:23:41.884] 76561198282220699 "AkaMadafaka" container -1 8209,11815,0 [Base.Chocolate].
+[08-04-23 00:26:07.499] 76561198282220699 "AkaMadafaka" floor -1 8211,11813,0 [Base.Shoes_ArmyBoots].
+[08-04-23 00:26:10.123] 76561198282220699 "AkaMadafaka" floor -1 8211,11813,0 [Base.Shirt_Lumberjack].
+[08-04-23 00:26:13.140] 76561198282220699 "AkaMadafaka" floor -1 8211,11813,0 [Base.Jacket_Fireman].
+[08-04-23 00:30:11.564] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.Windshield2].
+[08-04-23 00:30:12.016] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.EngineParts].
+[08-04-23 00:30:12.603] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.RearWindshield2].
+[08-04-23 00:30:56.428] 76561198282220699 "AkaMadafaka" floor +1 8238,11848,0 [Base.FrontWindow2].
+[08-04-23 00:31:17.585] 76561198282220699 "AkaMadafaka" floor +1 8238,11848,0 [Base.FrontCarDoor2].
+[08-04-23 00:31:40.604] 76561198282220699 "AkaMadafaka" floor +1 8242,11849,0 [Base.RearCarDoorDouble2].
+[08-04-23 00:31:56.539] 76561198282220699 "AkaMadafaka" floor +1 8238,11850,0 [Base.FrontWindow2].
+[08-04-23 00:32:39.906] 76561199102646469 "USSR" container +0 8243,11830,0 [Radio.CDplayer].
+[08-04-23 00:32:42.042] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.CarBattery2].
+[08-04-23 00:32:42.647] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.OldCarMuffler2].
+[08-04-23 00:32:51.703] 76561198282220699 "AkaMadafaka" floor +1 8259,11848,0 [Base.MetalBar].
+[08-04-23 00:32:51.704] 76561198282220699 "AkaMadafaka" floor +1 8259,11848,0 [Base.Doorknob].
+[08-04-23 00:32:51.704] 76561198282220699 "AkaMadafaka" floor +1 8259,11848,0 [Base.Hinge].
+[08-04-23 00:32:58.746] 76561199102646469 "USSR" floor +1 8259,11849,0 [Base.MetalBar].
+[08-04-23 00:32:58.747] 76561199102646469 "USSR" floor +1 8259,11849,0 [Base.MetalPipe].
+[08-04-23 00:32:58.748] 76561199102646469 "USSR" floor +1 8259,11849,0 [Base.Doorknob].
+[08-04-23 00:33:11.633] 76561199102646469 "USSR" floor +1 8250,11852,0 [Base.Hat_BaseballCapKY].
+[08-04-23 00:33:27.805] 76561198282220699 "AkaMadafaka" floor +1 8238,11850,0 [Base.NormalCarSeat2].
+[08-04-23 00:33:41.636] 76561199102646469 "USSR" floor +1 8260,11847,0 [Base.Hat_BaseballCap].
+[08-04-23 00:34:06.913] 76561199102646469 "USSR" container -1 8258,11848,0 [Base.Ring_Left_RingFinger_Gold].
+[08-04-23 00:34:41.302] 76561198282220699 "AkaMadafaka" floor -1 8237,11849,0 [Base.OldCarMuffler2].
+[08-04-23 00:34:59.742] 76561199102646469 "USSR" floor -1 8259,11849,0 [Base.MetalPipe].
+[08-04-23 00:35:01.173] 76561199102646469 "USSR" floor -1 8259,11849,0 [Base.MetalBar].
+[08-04-23 00:35:01.867] 76561198282220699 "AkaMadafaka" floor -1 8242,11849,0 [Base.RearCarDoorDouble2].
+[08-04-23 00:35:01.969] 76561199102646469 "USSR" floor -1 8259,11849,0 [Base.Doorknob].
+[08-04-23 00:35:09.405] 76561198282220699 "AkaMadafaka" floor +1 8242,11849,0 [Base.RearCarDoorDouble2].
+[08-04-23 00:35:10.111] 76561198282220699 "AkaMadafaka" floor +1 8242,11849,0 [Base.NormalCarSeat2].
+[08-04-23 00:35:40.301] 76561198282220699 "AkaMadafaka" floor -1 8242,11849,0 [Base.RearCarDoorDouble2].
+[08-04-23 00:35:53.413] 76561198282220699 "AkaMadafaka" floor -1 8237,11849,0 [Base.CarBattery2].
+[08-04-23 00:35:56.247] 76561198282220699 "AkaMadafaka" floor -1 8238,11850,0 [Base.FrontWindow2].
+[08-04-23 00:36:00.911] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.MetalBar].
+[08-04-23 00:36:03.911] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.MetalPipe].
+[08-04-23 00:36:08.766] 76561198282220699 "AkaMadafaka" floor -1 8237,11849,0 [Base.Windshield2].
+[08-04-23 00:36:09.911] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.TinCanEmpty, Base.Doorknob].
+[08-04-23 00:36:21.558] 76561198282220699 "AkaMadafaka" floor -1 8237,11849,0 [Base.RearWindshield2].
+[08-04-23 00:37:36.104] 76561198282220699 "AkaMadafaka" floor +1 8237,11849,0 [Base.Windshield2].
+[08-04-23 00:37:54.933] 76561198282220699 "AkaMadafaka" floor -1 8238,11848,0 [Base.FrontCarDoor2].
+[08-04-23 00:38:04.002] 76561199102646469 "USSR" floor +1 8258,11847,0 [Base.Hat_Fedora].
+[08-04-23 00:38:34.096] 76561199102646469 "USSR" floor -1 8258,11847,0 [Base.Hat_Fedora].
+[08-04-23 00:38:35.798] 76561199102646469 "USSR" floor -1 8259,11848,0 [Base.MetalBar].
+[08-04-23 00:38:36.643] 76561199102646469 "USSR" floor -1 8259,11848,0 [Base.Doorknob].
+[08-04-23 00:38:37.732] 76561199102646469 "USSR" floor -1 8259,11848,0 [Base.Hinge].
+[08-04-23 00:38:45.793] 76561198282220699 "AkaMadafaka" floor -1 8238,11848,0 [Base.FrontWindow2].
+[08-04-23 00:39:03.909] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.Doorknob].
+[08-04-23 00:39:06.926] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.Hinge].
+[08-04-23 00:39:12.915] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.MetalBar].
+[08-04-23 00:39:22.945] 76561198282220699 "AkaMadafaka" floor +1 8238,11848,0 [Base.FrontWindow2].
+[08-04-23 00:40:45.917] 76561199102646469 "USSR" container -1 8209,11815,0 [Base.Carrots].
+[08-04-23 00:40:54.152] 76561198282220699 "AkaMadafaka" floor +1 8246,11830,0 [Base.Shoes_Random].
+[08-04-23 00:40:57.911] 76561199102646469 "USSR" container -1 8209,11814,0 [Base.CannedCarrots2].
+[08-04-23 00:41:03.926] 76561199102646469 "USSR" container -1 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:41:06.921] 76561199102646469 "USSR" container +0 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:41:32.892] 76561198282220699 "AkaMadafaka" container -1 8245,11829,0 [Base.Soap2].
+[08-04-23 00:42:24.110] 76561198282220699 "AkaMadafaka" floor -1 8242,11849,0 [Base.NormalCarSeat2].
+[08-04-23 00:42:48.679] 76561198282220699 "AkaMadafaka" floor -1 8238,11848,0 [Base.FrontWindow2].
+[08-04-23 00:43:04.406] 76561198282220699 "AkaMadafaka" floor +1 8238,11848,0 [Base.NormalCarSeat2].
+[08-04-23 00:43:09.928] 76561199102646469 "USSR" container +0 8239,11849,0 [Base.TinCanEmpty].
+[08-04-23 00:46:34.525] 76561198282220699 "AkaMadafaka" floor -1 8238,11848,0 [Base.NormalCarSeat2].
+[08-04-23 00:46:56.881] 76561198282220699 "AkaMadafaka" floor -1 8238,11850,0 [Base.NormalCarSeat2].
+[08-04-23 00:48:46.136] 76561198282220699 "AkaMadafaka" floor +1 8242,11849,0 [Base.OldCarMuffler2].
+[08-04-23 00:49:33.926] 76561199102646469 "USSR" container +0 8209,11806,0 [Base.Trousers_JeanBaggy].
+[08-04-23 00:49:51.921] 76561199102646469 "USSR" container -1 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:49:51.921] 76561199102646469 "USSR" container -1 8209,11815,0 [Base.CannedMilk].
+[08-04-23 00:49:54.926] 76561199102646469 "USSR" container +0 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:50:53.219] 76561198282220699 "AkaMadafaka" floor -1 8209,11811,0 [Base.BeerCan].
+[08-04-23 00:50:53.374] 76561198282220699 "AkaMadafaka" floor -1 8209,11811,0 [Base.BeerCan].
+[08-04-23 00:51:00.535] 76561198282220699 "AkaMadafaka" floor -1 8209,11811,0 [Base.Crisps2].
+[08-04-23 00:51:05.485] 76561198282220699 "AkaMadafaka" floor -1 8209,11811,0 [Base.Cigarettes].
+[08-04-23 00:51:05.485] 76561198282220699 "AkaMadafaka" floor -1 8209,11811,0 [Base.Cigarettes].
+[08-04-23 00:51:48.252] 76561198282220699 "AkaMadafaka" floor +1 8211,11811,0 [Base.Cigarettes].
+[08-04-23 00:51:50.588] 76561198282220699 "AkaMadafaka" floor +1 8211,11811,0 [Base.Lighter].
+[08-04-23 00:51:53.657] 76561199102646469 "USSR" floor -1 8211,11811,0 [Base.Cigarettes].
+[08-04-23 00:51:56.941] 76561199102646469 "USSR" floor -1 8211,11811,0 [Base.Lighter].
+[08-04-23 00:52:04.872] 76561198282220699 "AkaMadafaka" floor +1 8211,11811,0 [Base.BeerCanEmpty].
+[08-04-23 00:52:32.167] 76561198282220699 "AkaMadafaka" floor +1 8211,11811,0 [Base.BeerCanEmpty].
+[08-04-23 00:52:34.884] 76561199102646469 "USSR" floor +1 8211,11810,0 [Base.Lighter].
+[08-04-23 00:52:45.214] 76561198282220699 "AkaMadafaka" floor -1 8211,11810,0 [Base.Lighter].
+[08-04-23 00:55:50.745] 76561199102646469 "USSR" container -1 8209,11814,0 [Base.CannedBolognese].
+[08-04-23 00:55:52.027] 76561199102646469 "USSR" floor +1 8210,11814,0 [Base.CannedBolognese].
+[08-04-23 00:56:08.485] 76561199102646469 "USSR" floor -1 8210,11814,0 [Base.CannedBolognese].
+[08-04-23 00:56:15.931] 76561199102646469 "USSR" container -1 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:56:18.924] 76561199102646469 "USSR" container +0 8209,11813,0 [Base.TinOpener].
+[08-04-23 00:56:19.547] 76561199102646469 "USSR" floor +1 8212,11813,0 [Base.CannedBologneseOpen].
+[08-04-23 00:56:22.535] 76561199102646469 "USSR" floor -1 8212,11813,0 [Base.CannedBologneseOpen].
+[08-04-23 00:56:50.631] 76561198282220699 "AkaMadafaka" floor -1 8250,11852,0 [Base.Hat_BaseballCapKY].
+[08-04-23 00:56:57.938] 76561199102646469 "USSR" container +0 8243,11830,0 [Base.TinCanEmpty].
+[08-04-23 00:57:02.221] 76561198282220699 "AkaMadafaka" floor -1 8242,11849,0 [Base.OldCarMuffler2].
+[08-04-23 00:57:24.280] 76561199102646469 "USSR" floor +1 8261,11851,0 [Base.Hat_Fedora].
+[08-04-23 00:57:24.281] 76561199102646469 "USSR" floor +1 8260,11852,0 [Base.Glasses_Normal].
+[08-04-23 00:57:32.917] 76561199102646469 "USSR" floor +1 8264,11852,0 [Base.Hat_Beret].
+[08-04-23 00:57:34.818] 76561198282220699 "AkaMadafaka" floor +1 8240,11851,0 [Base.OldCarMuffler2].
+[08-04-23 00:57:37.623] 76561199102646469 "USSR" floor -1 8261,11851,0 [Base.Hat_Fedora].
+[08-04-23 00:57:38.415] 76561199102646469 "USSR" floor -1 8260,11852,0 [Base.Glasses_Normal].
+[08-04-23 00:57:47.897] 76561198282220699 "AkaMadafaka" container -1 8239,11849,0 [Base.FirstAidKit].
+[08-04-23 00:57:51.550] 76561198282220699 "AkaMadafaka" floor +1 8243,11850,0 [Base.FirstAidKit].
+[08-04-23 00:58:10.626] 76561199102646469 "USSR" floor +1 8242,11848,0 [Base.Axe].
+[08-04-23 00:58:11.367] 76561198282220699 "AkaMadafaka" container -3 8243,11850,0 [Base.AlcoholWipes, Base.Bandage, Base.SutureNeedle].
+[08-04-23 00:58:45.925] 76561199102646469 "USSR" container -4 8209,11599,0 [Base.Grapefruit, Base.Ketchup, Base.Lime, Base.Grapes].
+[08-04-23 00:58:54.934] 76561199102646469 "USSR" container -2 8211,11599,0 [Base.JamMarmalade, Base.JamFruit].
+[08-04-23 00:59:06.945] 76561199102646469 "USSR" container -1 8211,11600,0 [Base.BreadKnife].
+[08-04-23 00:59:36.935] 76561199102646469 "USSR" container -1 8204,11599,0 [Base.BookForaging4].
+[08-04-23 00:59:39.938] 76561199102646469 "USSR" container -1 8204,11599,0 [Base.Pen].
+[08-04-23 00:59:57.932] 76561199102646469 "USSR" container -1 8204,11595,1 [Base.PistolCase2].
+[08-04-23 01:00:06.930] 76561199102646469 "USSR" container -2 8204,11598,1 [Base.BookFishing1, Base.BookMetalWelding2].
+[08-04-23 01:00:09.859] 76561199102646469 "USSR" container -2 8204,11598,1 [Base.RedPen, Base.BookFirstAid4].
+[08-04-23 01:00:27.929] 76561199102646469 "USSR" container -1 8208,11603,1 [Base.Bag_DuffelBagTINT].
+[08-04-23 01:00:39.959] 76561199102646469 "USSR" container -1 8211,11604,1 [Base.BluePen].
+[08-04-23 01:00:41.066] 76561199102646469 "USSR" container -1 8211,11604,1 [Base.RedPen].
+[08-04-23 01:00:47.895] 76561198282220699 "AkaMadafaka" container -1 8244,11854,0 [Base.Garbagebag].
+[08-04-23 01:04:00.950] 76561199102646469 "USSR" container -5 8242,11848,0 [Base.Notebook, Base.WristWatch_Left_ClassicBrown].
+[08-04-23 01:04:03.934] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Notebook].
+[08-04-23 01:04:06.948] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Jacket_Fireman].
+[08-04-23 01:04:12.929] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Trousers_Fireman].
+[08-04-23 01:04:15.938] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Hat_GasMask].
+[08-04-23 01:04:18.945] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Necklace_Gold].
+[08-04-23 01:04:21.937] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Ring_Right_RingFinger_Gold].
+[08-04-23 01:04:24.943] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Ring_Left_MiddleFinger_Gold].
+[08-04-23 01:04:33.950] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.CannedBologneseOpen].
+[08-04-23 01:04:36.933] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.BluePen].
+[08-04-23 01:04:39.949] 76561199102646469 "USSR" container -3 8242,11848,0 [Base.PipeWrench, Base.RedPen].
+[08-04-23 01:04:42.942] 76561199102646469 "USSR" container -2 8242,11848,0 [Base.Screwdriver, Base.Vest_BulletPolice].
+[08-04-23 01:04:48.929] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Ring_Left_RingFinger_Silver].
+[08-04-23 01:04:51.941] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.Earring_LoopSmall_Gold_Both].
+[08-04-23 01:05:06.944] 76561199102646469 "USSR" container -1 8242,11848,0 [Base.WaterPopBottle].
+[08-04-23 01:06:09.943] 76561199102646469 "USSR" container +0 8209,11805,0 [Base.BookMetalWelding2].
+[08-04-23 01:06:18.944] 76561199102646469 "USSR" container +0 8209,11805,0 [Base.BookFirstAid4].
+[08-04-23 01:06:21.944] 76561199102646469 "USSR" container +0 8209,11805,0 [Base.BookFishing1, Base.BookForaging4].
+[08-04-23 01:06:30.939] 76561199102646469 "USSR" container +0 8209,11806,0 [Base.Trousers_JeanBaggy].
+[08-04-23 01:06:33.954] 76561199102646469 "USSR" container +0 8209,11806,0 [Base.PistolCase2].
+[08-04-23 01:06:54.942] 76561199102646469 "USSR" container +0 8209,11815,0 [Base.JamFruit].
+[08-04-23 01:06:57.943] 76561199102646469 "USSR" container +0 8209,11815,0 [Base.Grapefruit, Base.Grapes].
+[08-04-23 01:07:00.946] 76561199102646469 "USSR" container +0 8209,11815,0 [Base.Ketchup, Base.Lime].
+[08-04-23 01:07:03.942] 76561199102646469 "USSR" container +0 8209,11815,0 [Base.JamMarmalade].
+[08-04-23 01:07:18.937] 76561199102646469 "USSR" container +0 8209,11813,0 [Base.BreadKnife].
+[08-04-23 01:07:49.435] 76561199102646469 "USSR" floor -1 8242,11848,0 [Base.Axe].
+[08-04-23 01:14:36.580] 76561198282220699 "AkaMadafaka" floor +1 8209,11810,0 [Base.BookMechanic2].
+[08-04-23 01:15:12.804] 76561199102646469 "USSR" floor -1 8211,11811,0 [Base.BeerCanEmpty].
+[08-04-23 01:15:12.804] 76561199102646469 "USSR" floor -1 8211,11811,0 [Base.BeerCanEmpty].
+[08-04-23 01:15:24.943] 76561199102646469 "USSR" container +0 8209,11805,0 [Base.Notebook].
+[08-04-23 01:15:28.057] 76561199102646469 "USSR" container +0 8209,11805,0 [Base.BeerCanEmpty].
+[08-04-23 01:15:30.949] 76561199102646469 "USSR" container +0 8209,11806,0 [Base.BeerCanEmpty].
+[08-04-23 01:18:17.898] 76561198282220699 "AkaMadafaka" container -1 8145,11496,0 [Base.Glasses_SafetyGoggles].
+[08-04-23 01:18:30.944] 76561199102646469 "USSR" container -1 8142,11495,0 [Base.Glasses_SafetyGoggles].
+[08-04-23 01:18:32.892] 76561198282220699 "AkaMadafaka" container -20 8142,11495,0 [Base.Cigarettes].
+[08-04-23 01:18:36.949] 76561199102646469 "USSR" container +0 8142,11495,0 [Base.Glasses_Normal].
+[08-04-23 01:18:48.959] 76561199102646469 "USSR" container -2 8138,11488,0 [Base.CannedChili, Base.CannedMilk].
+[08-04-23 01:18:51.950] 76561199102646469 "USSR" container -3 8138,11488,0 [Base.CannedMushroomSoup, Base.CannedPeaches, Base.CannedFruitCocktail].
+[08-04-23 01:18:54.981] 76561199102646469 "USSR" container -1 8138,11488,0 [Base.CannedBolognese].
+[08-04-23 01:19:09.955] 76561199102646469 "USSR" container -6 8138,11483,0 [Base.JamMarmalade, Base.JamFruit, Base.Marinara, Base.Hotsauce].
+[08-04-23 01:19:12.950] 76561199102646469 "USSR" container -2 8138,11483,0 [Base.PeanutButter].
+[08-04-23 01:20:03.960] 76561199102646469 "USSR" container -3 8141,11478,0 [Base.CannedCornedBeef, Base.CannedChili, Base.CannedBolognese].
+[08-04-23 01:20:12.950] 76561199102646469 "USSR" container -4 8141,11476,0 [Base.CannedCarrots2, Base.CannedCorn, Base.CannedSardines, Base.CannedPineapple].
+[08-04-23 01:20:37.745] 76561199102646469 "USSR" floor +1 8140,11477,0 [Base.TinCanEmpty].
+[08-04-23 01:20:45.954] 76561199102646469 "USSR" container -4 8143,11472,0 [Base.Chicken].
+[08-04-23 01:20:48.955] 76561199102646469 "USSR" container -4 8142,11472,0 [Base.MeatPatty, Base.MincedMeat].
+[08-04-23 01:20:51.949] 76561199102646469 "USSR" container -3 8144,11472,0 [farming.Bacon, Base.Baloney].
+[08-04-23 01:20:54.948] 76561199102646469 "USSR" container -2 8144,11472,0 [Base.Salami].
+[08-04-23 01:20:54.948] 76561199102646469 "USSR" container -2 8145,11472,0 [Base.PorkChop].
+[08-04-23 01:20:57.946] 76561199102646469 "USSR" container -1 8145,11472,0 [Base.Steak].
+[08-04-23 01:21:12.747] 76561198282220699 "AkaMadafaka" floor +1 8146,11487,1 [Base.Garbagebag].
+[08-04-23 01:21:57.947] 76561199102646469 "USSR" container -1 8135,11485,0 [Base.Ring_Left_RingFinger_Gold].
+[08-04-23 01:22:06.965] 76561199102646469 "USSR" container -1 8134,11487,0 [Base.Money].
+[08-04-23 01:22:15.218] 76561199102646469 "USSR" floor +1 8136,11493,0 [Base.Money].
+[08-04-23 01:23:02.890] 76561198282220699 "AkaMadafaka" container -1 8138,11487,0 [Base.Macandcheese].
+[08-04-23 01:23:17.889] 76561198282220699 "AkaMadafaka" container -1 8146,11479,0 [Base.TunaTin].
+[08-04-23 01:23:20.895] 76561198282220699 "AkaMadafaka" container -3 8146,11479,0 [Base.CannedCornedBeef, Base.CannedMushroomSoup, Base.TinnedSoup].
+[08-04-23 01:23:26.895] 76561198282220699 "AkaMadafaka" container -3 8144,11476,0 [Base.Crisps, Base.Crisps4, Base.Crisps3].
+[08-04-23 01:24:00.950] 76561199102646469 "USSR" container -2 8149,11481,0 [Base.CannedFruitCocktail].
+[08-04-23 01:24:03.950] 76561199102646469 "USSR" container -3 8149,11481,0 [Base.CannedPeaches, Base.CannedPineapple].
+[08-04-23 01:24:09.956] 76561199102646469 "USSR" container -2 8149,11483,0 [Base.LicoriceRed, Base.TinnedSoup].
+[08-04-23 01:24:12.952] 76561199102646469 "USSR" container -2 8149,11483,0 [Base.Crisps, Base.CannedTomato2].
+[08-04-23 01:24:29.893] 76561198282220699 "AkaMadafaka" container -1 8152,11505,0 [Base.EmptyPetrolCan].
+[08-04-23 01:24:54.700] 76561199102646469 "USSR" floor +1 8157,11507,0 [Base.Hat_Fedora].
+[08-04-23 01:25:03.834] 76561199102646469 "USSR" floor +1 8158,11507,0 [Base.Glasses_SafetyGoggles].
+[08-04-23 01:25:21.113] 76561198282220699 "AkaMadafaka" floor +1 8079,11467,0 [Base.Doorknob].
+[08-04-23 01:25:21.114] 76561198282220699 "AkaMadafaka" floor +1 8079,11467,0 [Base.Hinge].
+[08-04-23 01:25:21.115] 76561198282220699 "AkaMadafaka" floor +1 8079,11467,0 [Base.Hinge].
+[08-04-23 01:25:42.962] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.CannedFruitCocktail].
+[08-04-23 01:25:45.957] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.CannedPeaches].
+[08-04-23 01:25:51.960] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.CannedPineapple].
+[08-04-23 01:25:57.959] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.CannedTomato2].
+[08-04-23 01:26:21.966] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.TinnedSoup].
+[08-04-23 01:26:27.957] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.Crisps].
+[08-04-23 01:26:39.961] 76561199102646469 "USSR" container +0 8155,11483,0 [Base.Axe].
+[08-04-23 01:26:59.890] 76561198282220699 "AkaMadafaka" container +0 8155,11483,0 [Base.TunaTin].
+[08-04-23 01:27:02.893] 76561198282220699 "AkaMadafaka" container +0 8155,11483,0 [Base.CannedMushroomSoup, Base.TinnedSoup].
+[08-04-23 01:27:03.958] 76561199102646469 "USSR" container -1 8155,11483,0 [Base.Axe].
+[08-04-23 01:27:05.887] 76561198282220699 "AkaMadafaka" container +0 8155,11483,0 [Base.Crisps, Base.CannedCornedBeef, Base.Crisps4, Base.Crisps3].
+[08-04-23 01:27:08.899] 76561198282220699 "AkaMadafaka" container +0 8155,11483,0 [Base.Macandcheese].
+[08-04-23 01:28:44.891] 76561198282220699 "AkaMadafaka" container -1 8147,11441,0 [Base.TirePump].
+[08-04-23 01:28:59.893] 76561198282220699 "AkaMadafaka" container +0 8144,11444,0 [Base.TirePump].

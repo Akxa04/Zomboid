@@ -1,0 +1,8 @@
+[09-04-23 23:27:22.190] [76561198282220699][AkaMadafaka][8209,11814,0][Login][Hours Survived: 65].
+[09-04-23 23:27:22.191] [76561198282220699][AkaMadafaka][8209,11814,0][Cooking=2, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=2, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=3, MetalWelding=0, Mechanics=2, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 65].
+[09-04-23 23:29:06.912] [76561199102646469][USSR][8216,11811,0][Login][Hours Survived: 13].
+[09-04-23 23:29:06.920] [76561199102646469][USSR][8216,11811,0][Cooking=0, Fitness=5, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=1, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 13].
+[09-04-23 23:38:47.564] [76561199102646469][USSR][8115,11700,0][Died][Hours Survived: 17].
+[09-04-23 23:39:11.532] [76561199102646469][USSR][8208,11600,0][Created Player 1][Hours Survived: 0].
+[09-04-23 23:39:11.544] [76561199102646469][USSR][8208,11600,0][Cooking=0, Fitness=5, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[09-04-23 23:45:18.174] [76561198282220699][AkaMadafaka][8059,11736,0][Died][Hours Survived: 72].

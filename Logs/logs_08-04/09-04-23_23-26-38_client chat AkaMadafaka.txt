@@ -1,0 +1,3 @@
+[09-04-23 23:26:38.616][info] Init chat system....
+[09-04-23 23:26:38.616][info] Mode: single player.
+[09-04-23 23:26:38.616][info] Chat owner: AkaMadafaka.

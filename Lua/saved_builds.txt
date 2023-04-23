@@ -1,0 +1,1 @@
+Mechanic:mechanics;HighThirst;Pacifist;ProneToIllness;Smoker;WeakStomach;Cowardly;ShortSighted;SpeedDemon;NightVision;Dextrous;FastReader;Outdoorsman;FastHealer;FastLearner;

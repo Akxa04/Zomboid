@@ -1,0 +1,6 @@
+[07-04-23 23:48:23.890][info] Init chat system....
+[07-04-23 23:48:23.890][info] Mode: multiplayer.
+[07-04-23 23:48:23.890][info] Chat owner: AkaMadafaka.
+[08-04-23 00:31:59.098][info] Got message from server: ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[08-04-23 00:32:03.878][info] Got message from server: ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[08-04-23 00:44:08.830][info] Got message from server: ChatMessage{chat=Local, author='USSR', text='HEY!'}.

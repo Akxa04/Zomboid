@@ -1,0 +1,2 @@
+VERSION=1
+Aka Banderas:gender=2;skincolor=0.8,0.65,0.45;name=Aka|Banderas;hair=LeftParting|0.10588235408067703,0.09019608050584793,0.08627451211214066;chesthair=2;beard=BeardOnly;TankTop=Base.Vest_DefaultTEXTURE_TINT|1,1,1;Shirt=Base.Shirt_Lumberjack|1;Tshirt=Base.Tshirt_DefaultTEXTURE_TINT|0.3843137323856354,0.40784314274787903,0.35686275362968445;Pants=Base.Trousers_Denim|1;Socks=Base.Socks_Ankle|0,0,0;Shoes=Base.Shoes_Random|2;

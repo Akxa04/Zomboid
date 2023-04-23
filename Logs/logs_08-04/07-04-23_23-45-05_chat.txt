@@ -1,0 +1,40 @@
+[07-04-23 23:45:05.792][info] Start chat server initialization....
+[07-04-23 23:45:05.922][info] General chat has id = 0.
+[07-04-23 23:45:05.922][info] Say chat has id = 1.
+[07-04-23 23:45:05.923][info] Shout chat has id = 2.
+[07-04-23 23:45:05.923][info] Radio chat has id = 3.
+[07-04-23 23:45:05.923][info] Admin chat has id = 4.
+[07-04-23 23:45:05.923][info] Server chat has id = 5.
+[07-04-23 23:45:05.923][info] Chat server successfully initialized.
+[07-04-23 23:48:23.872][info] Player with id = '0' tries to connect.
+[07-04-23 23:48:23.872][info] Adding player '0' to chat server.
+[07-04-23 23:48:23.873][info] Player joined to default chats.
+[07-04-23 23:48:23.874][info] Player AkaMadafaka(0) joined to chat server successfully.
+[07-04-23 23:55:06.736][info] Player with id = '4' tries to connect.
+[07-04-23 23:55:06.736][info] Adding player '4' to chat server.
+[07-04-23 23:55:06.737][info] Player joined to default chats.
+[07-04-23 23:55:06.737][info] Player USSR(4) joined to chat server successfully.
+[08-04-23 00:31:59.084][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[08-04-23 00:31:59.085][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[08-04-23 00:32:03.859][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[08-04-23 00:32:03.859][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[08-04-23 00:44:08.803][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[08-04-23 00:44:08.803][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[08-04-23 00:58:10.718][info] Player 4 disconnecting....
+[08-04-23 00:58:10.719][info] Disconnecting player 4 finished.
+[08-04-23 00:58:33.624][info] Player 4 disconnecting....
+[08-04-23 00:58:33.624][info] Disconnecting player 4 finished.
+[08-04-23 00:58:33.625][info] Player with id = '4' tries to connect.
+[08-04-23 00:58:33.625][info] Adding player '4' to chat server.
+[08-04-23 00:58:33.625][error] Player or connection is not found on server!.
+[08-04-23 00:58:33.625][error] player = null.
+[08-04-23 00:58:35.558][info] Player with id = '4' tries to connect.
+[08-04-23 00:58:35.558][info] Adding player '4' to chat server.
+[08-04-23 00:58:35.558][info] Player joined to default chats.
+[08-04-23 00:58:35.559][info] Player USSR(4) joined to chat server successfully.
+[08-04-23 01:14:56.085][info] Got message:ChatMessage{chat=Local, author='AkaMadafaka', text='HEY YOU!'}.
+[08-04-23 01:14:56.085][info] Message ChatMessage{chat=Local, author='AkaMadafaka', text='HEY YOU!'} sent to chat (id = 2) members.
+[08-04-23 01:33:30.505][info] Player 0 disconnecting....
+[08-04-23 01:33:30.506][info] Disconnecting player 0 finished.
+[08-04-23 01:33:30.506][info] Player 0 disconnecting....
+[08-04-23 01:33:30.506][info] Disconnecting player 0 finished.

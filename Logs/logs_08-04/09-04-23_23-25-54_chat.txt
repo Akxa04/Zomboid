@@ -1,0 +1,178 @@
+[09-04-23 23:25:54.319][info] Start chat server initialization....
+[09-04-23 23:25:54.394][info] General chat has id = 0.
+[09-04-23 23:25:54.395][info] Say chat has id = 1.
+[09-04-23 23:25:54.395][info] Shout chat has id = 2.
+[09-04-23 23:25:54.395][info] Radio chat has id = 3.
+[09-04-23 23:25:54.395][info] Admin chat has id = 4.
+[09-04-23 23:25:54.395][info] Server chat has id = 5.
+[09-04-23 23:25:54.395][info] Chat server successfully initialized.
+[09-04-23 23:27:19.803][info] Player with id = '0' tries to connect.
+[09-04-23 23:27:19.804][info] Adding player '0' to chat server.
+[09-04-23 23:27:19.805][info] Player joined to default chats.
+[09-04-23 23:27:19.805][info] Player AkaMadafaka(0) joined to chat server successfully.
+[09-04-23 23:29:05.167][info] Player with id = '4' tries to connect.
+[09-04-23 23:29:05.167][info] Adding player '4' to chat server.
+[09-04-23 23:29:05.167][info] Player joined to default chats.
+[09-04-23 23:29:05.167][info] Player USSR(4) joined to chat server successfully.
+[09-04-23 23:34:31.238][info] Creating faction chat 'PEPI Boys'.
+[09-04-23 23:34:31.238][info] Faction chat 'PEPI Boys' created.
+[09-04-23 23:34:31.238][info] Start syncing faction chat 'PEPI Boys'....
+[09-04-23 23:34:31.239][info] These members were added: 'AkaMadafaka', . These members were removed: .
+[09-04-23 23:34:31.239][info] Syncing faction chat 'PEPI Boys' finished.
+[09-04-23 23:34:42.203][info] Start syncing faction chat 'PEPI Boys'....
+[09-04-23 23:34:42.203][info] These members were added: 'USSR', . These members were removed: .
+[09-04-23 23:34:42.203][info] Syncing faction chat 'PEPI Boys' finished.
+[09-04-23 23:34:52.637][info] Start syncing faction chat 'PEPI Boys'....
+[09-04-23 23:34:52.637][info] These members were added: . These members were removed: .
+[09-04-23 23:34:52.637][info] Syncing faction chat 'PEPI Boys' finished.
+[09-04-23 23:34:52.717][info] Start syncing faction chat 'PEPI Boys'....
+[09-04-23 23:34:52.717][info] These members were added: . These members were removed: .
+[09-04-23 23:34:52.717][info] Syncing faction chat 'PEPI Boys' finished.
+[09-04-23 23:34:59.726][info] Start syncing faction chat 'PEPI Boys'....
+[09-04-23 23:34:59.726][info] These members were added: . These members were removed: .
+[09-04-23 23:34:59.726][info] Syncing faction chat 'PEPI Boys' finished.
+[09-04-23 23:38:14.924][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:14.925][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:15.212][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:15.212][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:15.415][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:15.415][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:15.672][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:15.672][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:15.926][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:15.926][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:16.559][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:16.559][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:16.939][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:16.939][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:17.245][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:17.245][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:17.450][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:17.450][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:17.997][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:17.997][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:18.371][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:18.371][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:18.918][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:18.918][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:19.163][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:19.163][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:19.428][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:19.428][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:19.683][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:19.683][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:20.595][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:20.595][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:21.386][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:21.386][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:23.346][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:23.346][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:23.650][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:23.650][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:23.897][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:23.897][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:24.139][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:24.139][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:24.390][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:24.390][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:24.623][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:24.623][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:24.860][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:24.861][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:25.309][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:25.309][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:26.043][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:26.043][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:26.340][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:26.342][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:26.695][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:26.695][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:26.973][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:26.974][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:27.238][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:27.238][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:27.476][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:27.476][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:27.723][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:27.723][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:27.938][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:27.938][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:28.191][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:28.191][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:30.227][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:30.227][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:31.769][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:31.769][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:32.196][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:32.196][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:32.508][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:32.509][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:32.810][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:32.810][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:33.039][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:33.039][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:33.766][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:33.766][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:33.998][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:33.998][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:34.247][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:34.247][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:34.482][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:34.482][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:34.629][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:34.629][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:35.080][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:35.080][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:35.776][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:35.776][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:36.242][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:36.242][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:36.593][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:36.593][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:36.952][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:36.952][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:37.223][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:37.223][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:37.557][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:37.557][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:37.841][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:37.841][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:38.145][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:38.145][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:38.461][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:38.461][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:39.312][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:39.312][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:39.620][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:39.620][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:42.003][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:42.003][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:42.255][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY YOU!'}.
+[09-04-23 23:38:42.255][info] Message ChatMessage{chat=Local, author='USSR', text='HEY YOU!'} sent to chat (id = 2) members.
+[09-04-23 23:38:42.499][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:42.500][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:42.733][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:42.733][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:44.143][info] Got message:ChatMessage{chat=Local, author='USSR', text='HEY!'}.
+[09-04-23 23:38:44.143][info] Message ChatMessage{chat=Local, author='USSR', text='HEY!'} sent to chat (id = 2) members.
+[09-04-23 23:38:44.369][info] Got message:ChatMessage{chat=Local, author='USSR', text='OVER HERE!'}.
+[09-04-23 23:38:44.369][info] Message ChatMessage{chat=Local, author='USSR', text='OVER HERE!'} sent to chat (id = 2) members.
+[09-04-23 23:38:47.610][info] Player 4 disconnecting....
+[09-04-23 23:38:47.610][info] Disconnecting player 4 finished.
+[09-04-23 23:39:08.891][info] Player 4 disconnecting....
+[09-04-23 23:39:08.891][info] Disconnecting player 4 finished.
+[09-04-23 23:39:08.892][info] Player with id = '4' tries to connect.
+[09-04-23 23:39:08.892][info] Adding player '4' to chat server.
+[09-04-23 23:39:08.892][error] Player or connection is not found on server!.
+[09-04-23 23:39:08.892][error] player = null.
+[09-04-23 23:39:11.141][info] Player with id = '4' tries to connect.
+[09-04-23 23:39:11.141][info] Adding player '4' to chat server.
+[09-04-23 23:39:11.141][info] Player joined to default chats.
+[09-04-23 23:39:11.141][info] Player joined to chat of faction 'PEPI Boys'.
+[09-04-23 23:39:11.141][info] Player USSR(4) joined to chat server successfully.
+[09-04-23 23:45:18.174][info] Player 0 disconnecting....
+[09-04-23 23:45:18.174][info] Disconnecting player 0 finished.
+[09-04-23 23:45:30.532][info] Player 0 disconnecting....
+[09-04-23 23:45:30.532][info] Disconnecting player 0 finished.
+[09-04-23 23:45:30.533][info] Player 0 disconnecting....
+[09-04-23 23:45:30.533][info] Disconnecting player 0 finished.

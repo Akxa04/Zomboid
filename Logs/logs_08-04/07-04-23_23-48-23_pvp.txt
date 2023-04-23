@@ -1,0 +1,5 @@
+[07-04-23 23:48:23.895][INFO] user "AkaMadafaka" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[07-04-23 23:55:06.737][INFO] user "USSR" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[08-04-23 00:58:10.731][INFO] user "USSR" clear safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[08-04-23 00:58:35.559][INFO] user "USSR" restore safety enabled=true last=true cooldown=0.0 toggle=0.0.
+[08-04-23 01:33:30.506][INFO] user "AkaMadafaka" store safety enabled=true last=true cooldown=0.0 toggle=0.0.

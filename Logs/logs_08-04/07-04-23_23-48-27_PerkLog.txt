@@ -1,0 +1,15 @@
+[07-04-23 23:48:27.051] [76561198282220699][AkaMadafaka][8327,11814,0][Login][Hours Survived: 0].
+[07-04-23 23:48:27.051] [76561198282220699][AkaMadafaka][8327,11814,0][Cooking=0, Fitness=5, Strength=5, Blunt=0, Axe=0, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=3, MetalWelding=0, Mechanics=1, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[07-04-23 23:54:14.636] [76561198282220699][AkaMadafaka][8328,11817,0][Level Changed][Cooking][1][Hours Survived: 2].
+[07-04-23 23:55:07.871] [76561199102646469][USSR][8074,11731,0][Login][Hours Survived: 0].
+[07-04-23 23:55:07.937] [76561199102646469][USSR][8074,11731,0][Cooking=0, Fitness=5, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[08-04-23 00:25:20.310] [76561198282220699][AkaMadafaka][8211,11811,0][Level Changed][Woodwork][1][Hours Survived: 30].
+[08-04-23 00:25:20.383] [76561199102646469][USSR][8211,11811,0][Level Changed][Woodwork][1][Hours Survived: 27].
+[08-04-23 00:54:52.526] [76561198282220699][AkaMadafaka][8211,11811,0][Level Changed][Cooking][2][Hours Survived: 49].
+[08-04-23 00:54:55.312] [76561199102646469][USSR][8211,11810,0][Level Changed][Cooking][1][Hours Survived: 46].
+[08-04-23 00:58:10.635] [76561199102646469][USSR][8242,11848,0][Died][Hours Survived: 48].
+[08-04-23 00:58:35.981] [76561199102646469][USSR][8208,11600,0][Created Player 1][Hours Survived: 0].
+[08-04-23 00:58:35.981] [76561199102646469][USSR][8208,11600,0][Cooking=0, Fitness=5, Strength=6, Blunt=0, Axe=2, Sprinting=0, Lightfoot=0, Nimble=0, Sneak=0, Woodwork=0, Aiming=0, Reloading=0, Farming=0, Fishing=0, Trapping=0, PlantScavenging=0, Doctor=0, Electricity=0, MetalWelding=0, Mechanics=0, Spear=0, Maintenance=0, SmallBlade=0, LongBlade=0, SmallBlunt=0, Tailoring=0][Hours Survived: 0].
+[08-04-23 00:59:38.071] [76561198282220699][AkaMadafaka][8242,11855,0][Level Changed][Mechanics][2][Hours Survived: 51].
+[08-04-23 01:09:00.110] [76561199102646469][USSR][8211,11810,0][Level Changed][Woodwork][1][Hours Survived: 4].
+[08-04-23 01:09:06.025] [76561198282220699][AkaMadafaka][8211,11811,0][Level Changed][Woodwork][2][Hours Survived: 55].

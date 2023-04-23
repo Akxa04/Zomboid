@@ -1,0 +1,2 @@
+[09-04-23 23:44:26.638] 76561199102646469 "USSR" removed Door (fixtures_doors_02_40) at 8080,11739,0.
+[09-04-23 23:44:34.088] 76561198282220699 "AkaMadafaka" removed Door (fixtures_doors_02_44) at 8080,11740,0.

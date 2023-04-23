@@ -1,0 +1,3 @@
+[17-04-23 23:51:14.874][info] Init chat system....
+[17-04-23 23:51:14.874][info] Mode: multiplayer.
+[17-04-23 23:51:14.874][info] Chat owner: AkaMadafaka.

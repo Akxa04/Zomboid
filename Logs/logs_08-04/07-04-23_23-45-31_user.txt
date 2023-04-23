@@ -1,0 +1,17 @@
+[07-04-23 23:45:31.569] added connection index=0 127.0.0.1.
+[07-04-23 23:45:32.433] 76561198282220699 "AkaMadafaka" attempting to join.
+[07-04-23 23:45:32.433] 76561198282220699 "AkaMadafaka" allowed to join.
+[07-04-23 23:48:07.747] 76561198282220699 "AkaMadafaka" attempting to join used queue.
+[07-04-23 23:48:20.590] player AkaMadafaka loading time was: 12452 ms.
+[07-04-23 23:48:24.026] 76561198282220699 "AkaMadafaka" fully connected (8327,11814,0).
+[07-04-23 23:49:12.438] added connection index=1 240.68.42.21.
+[07-04-23 23:49:13.353] 76561199102646469 "USSR" attempting to join.
+[07-04-23 23:49:13.361] 76561199102646469 "USSR" allowed to join.
+[07-04-23 23:54:06.789] 76561199102646469 "USSR" attempting to join used queue.
+[07-04-23 23:55:02.283] player USSR loading time was: 54290 ms.
+[07-04-23 23:55:06.739] 76561199102646469 "USSR" fully connected (8074,11731,0).
+[08-04-23 00:58:10.732] user USSR died at (8242,11848,0) (non pvp).
+[08-04-23 00:58:33.625] 76561199102646469 "USSR" disconnected player (8242,11848,0).
+[08-04-23 00:58:35.560] 76561199102646469 "USSR" fully connected (8208,11600,0).
+[08-04-23 01:33:30.492] 76561198282220699 "AkaMadafaka" removed connection index=0.
+[08-04-23 01:33:30.510] 76561198282220699 "AkaMadafaka" disconnected player (8209,11814,0).
